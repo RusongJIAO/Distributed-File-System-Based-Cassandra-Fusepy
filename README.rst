@@ -1,5 +1,4 @@
-This project is to implement a distributed filesystem based on Cassandra and fusepy. You can execute the "example/cassandra.py" to start
-the application. However, some prequirements are needed:
+This project is to implement a distributed filesystem based on Cassandra and fusepy. You can execute two versions "exemple/cassandra.py" and "example/cassandra-v3.py" to startthe application. However, some prequirements are needed:
  - Cassandra 
  - Python
  - Fusepy
